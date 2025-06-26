@@ -1,7 +1,7 @@
 # London Transport Analysis (SQL Practice)
 
-*Hypothetical SQL queries analyzing transport data from Transport for London (TFL).*  
-*(Project showcases SQL skills; no actual dataset included.)*
+*SQL queries analyzing transport data from Transport for London (TFL).*  
+*(Project showcases SQL skills)*
 *(The entire project was done on datalab/datacamp)*
 
 ---
